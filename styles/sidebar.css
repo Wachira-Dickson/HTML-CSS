@@ -1,8 +1,7 @@
-.sidebar.css {
+.sidebar{
     background-color: white;
     position: fixed;
     top:70px;
-    bottom: 0px;
     left: 0px;
     width: 75px;
 }
